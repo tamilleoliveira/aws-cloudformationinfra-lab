@@ -14,15 +14,6 @@ Este projeto foi desenvolvido como parte do desafio da DIO para aplicar os conce
 - Git e GitHub
 - Markdown
 
-## 📦 Estrutura do Projeto
-- `infra/template.yaml`: Arquivo principal com a definição da infraestrutura
-- `images/`: Pasta com capturas de tela da implementação
-- `README.md`: Documentação detalhada do projeto
-
-## 📸 Capturas de Tela
-![Stack criada](images/captura1.png)
-![Recursos provisionados](images/captura2.png)
-
 ## 🧠 Aprendizados
 Durante este laboratório, aprendi a:
 - Estruturar templates YAML para provisionamento de recursos na AWS
