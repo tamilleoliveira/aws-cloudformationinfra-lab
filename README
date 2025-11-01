@@ -1,0 +1,36 @@
+# 🚀 Laboratório: Infraestrutura Automatizada com AWS CloudFormation
+
+## 📚 Descrição
+Este projeto foi desenvolvido como parte do desafio da DIO para aplicar os conceitos de infraestrutura como código utilizando AWS CloudFormation. O objetivo é criar uma stack automatizada na AWS e documentar todo o processo.
+
+## 🎯 Objetivos
+- Implementar uma infraestrutura automatizada com AWS CloudFormation
+- Documentar o processo técnico de forma clara e objetiva
+- Utilizar o GitHub como ferramenta de compartilhamento técnico
+
+## 🛠️ Tecnologias Utilizadas
+- AWS CloudFormation
+- AWS CLI
+- Git e GitHub
+- Markdown
+
+## 📦 Estrutura do Projeto
+- `infra/template.yaml`: Arquivo principal com a definição da infraestrutura
+- `images/`: Pasta com capturas de tela da implementação
+- `README.md`: Documentação detalhada do projeto
+
+## 📸 Capturas de Tela
+![Stack criada](images/captura1.png)
+![Recursos provisionados](images/captura2.png)
+
+## 🧠 Aprendizados
+Durante este laboratório, aprendi a:
+- Estruturar templates YAML para provisionamento de recursos na AWS
+- Utilizar parâmetros e outputs no CloudFormation
+- Validar e testar stacks usando a AWS CLI
+- Documentar tecnicamente um projeto de forma profissional
+
+## 📎 Referências
+- [Documentação oficial do AWS CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html)
+- [Guia de Markdown no GitHub](https://guides.github.com/features/mastering-markdown/)
+- [Formação GitHub Certification - GitBook](https://dio.gitbook.io/github-certification/)
